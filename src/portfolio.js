@@ -26,7 +26,7 @@ const greeting = {
     "FAST. Adjective. Definition: Moving or capable of moving at high speed. An enthusiastic explorer in the field of Artificial Intelligence and Software Engineering 🌐🤖 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "" // "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "", // "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: false // true // Set false to hide this section, defaults to true
 };
 
